@@ -354,9 +354,15 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.61f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/EasyStart Third Person Controller/Scripts/BenchInteraction.cs"
 "Assets/EasyStart Third Person Controller/Scripts/CameraController.cs"
+"Assets/EasyStart Third Person Controller/Scripts/CollectiblePiece.cs"
 "Assets/EasyStart Third Person Controller/Scripts/Commenteds/CommentedCameraController.cs"
 "Assets/EasyStart Third Person Controller/Scripts/Commenteds/CommentedThirdPersonController.cs"
+"Assets/EasyStart Third Person Controller/Scripts/DraggablePiece.cs"
+"Assets/EasyStart Third Person Controller/Scripts/InventoryManager.cs"
+"Assets/EasyStart Third Person Controller/Scripts/PuzzleManager.cs"
+"Assets/EasyStart Third Person Controller/Scripts/PuzzleSlot.cs"
 "Assets/EasyStart Third Person Controller/Scripts/ThirdPersonController.cs"
+"Assets/EasyStart Third Person Controller/Scripts/UIManager.cs"
 -langversion:9.0
 /deterministic
 /optimize+
