@@ -1267,7 +1267,7 @@ MonoBehaviour:
   - {fileID: 40651026}
   - {fileID: 2056241958}
   - {fileID: 1404053645}
-  winText: {fileID: 0}
+  winText: {fileID: 1872937011}
 --- !u!4 &959004428
 Transform:
   m_ObjectHideFlags: 0
